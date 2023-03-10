@@ -1,0 +1,33 @@
+Pseudocódigo:
+
+Pseudocódigo é uma de descrever o processo para a execução de alguma atividade em linguagem natural, ou seja, sem uso de linguagens de programação.
+
+Fluxograma:
+
+Fluxograma é um diagrama que ilustra a sequência lógica de um código.
+
+Estruturas sequenciais:
+
+É uma sequência de instruções que constrói o programa, e tem como base 3 passos: entrada, processamento e saída de dados.
+
+Estruturas de decisões:
+
+Estruturas de decisao são um trecho do código que verifica alguma condição, que terá uma ação se for verdadeira e outra se for falsa. 
+
+Métodos com retorno:
+
+Métodos com retorno em java, são os métodos "tipados" e o retorno deve ser do mesmo tipo que o método, por exemplo:
+public int metodo(){
+}
+
+Métodos sem retorno:
+
+Métodos sem retorno são declarados como "void", estes são criados para poder interagir com o restante do código e finalizar a execução.
+
+Exceções:
+
+Exceções são usadas para prever possíveis imprevistos durante a execução do programa, evitando que toda a execução seja interrompida por um erro.
+
+Principais recursos de orientação a objetos:
+
+O java obrigatoriamente trabalha com classes e objetos.
